@@ -46,7 +46,7 @@ $ make
 **Hasil:** 
 Proses `make` akan mengompilasi seluruh *source code* C menjadi *image* bernama `xinu.elf`. Sistem juga secara otomatis menyalin *image* tersebut ke direktori server TFTP (`/srv/tftp/xinu.boot`) agar siap diunduh oleh *Backend VM*.
 
-![Terminal Compile Xinu](assets/dummy.png)
+![Terminal Compile Xinu](assets/https://github.com/nayalabina/sisop-praktikum-naya/blob/main/modul01/assets/makeclean.jpeg?raw=true)
 
 *Gambar 1: Proses kompilasi source code Xinu menggunakan perintah `make` pada Development-System VM.*
 
@@ -57,7 +57,7 @@ Selanjutnya, **Backend VM** dijalankan. Karena Backend VM tidak memiliki hardisk
 3. Backend VM mengunduh file `xinu.boot` melalui protokol TFTP.
 4. Xinu OS berhasil dimuat ke memori dan berjalan.
 
-![Booting Backend VM](assets/dummy.png)
+![Booting Backend VM](assets/makeclean.jpeg)
 
 *Gambar 2: Tampilan Backend VM saat melakukan booting melalui jaringan (PXE) dan memuat GRUB.*
 
