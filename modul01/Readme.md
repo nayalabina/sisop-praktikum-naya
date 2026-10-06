@@ -71,7 +71,7 @@ $ sudo minicom
 **Hasil:** 
 Terminal Development-System kini terhubung langsung ke *console* Xinu di Backend VM. Prompt terminal berubah dari `xinu@xinu-develop-end:$` menjadi **`xsh$`**, yang menandakan bahwa praktikan kini berada di dalam *Xinu Shell*.
 
-![Koneksi Minicom](assets/xsh.jpeg)
+![Koneksi Minicom](assets/xshh.jpeg)
 
 *Gambar 3: Koneksi berhasil melalui Minicom, ditandai dengan munculnya prompt `xsh$`.*
 
