@@ -4,11 +4,11 @@
 ### Identitas Praktikan
 | Item | Keterangan |
 |------|------------|
-| **Nama** | Nuevalen Refitra Alswando |
-| **NIM** | 103072430008 |
+| **Nama** | Naya Smara Labina |
+| **NIM** | 108072500151 |
 | **Kelas** | IF-04-01 |
-| **Asisten Praktikum** | [Isi Nama Asisten Anda] |
-| **Tanggal Praktikum** | [Isi Tanggal Praktikum] |
+| **Asisten Praktikum** | Nuevalen & Galang |
+| **Tanggal Praktikum** | 02-10-26 |
 
 ---
 
