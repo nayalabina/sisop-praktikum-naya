@@ -6,7 +6,7 @@
 |------|------------|
 | **Nama** | Naya Smara Labina |
 | **NIM** | 108072500151 |
-| **Kelas** | IF-04-01 |
+| **Kelas** | IF-05-04 |
 | **Asisten Praktikum** | Nuevalen & Galang |
 | **Tanggal Praktikum** | 02-10-26 |
 
